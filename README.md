@@ -1,5 +1,5 @@
 # :wave: Im Nam4ik
-I'm Nam4ik, a 14 years old backend developer based in Norway :norway:
+I'm Nam4ik, a 14 years old backend developer based in Russia :Russia:
 <head>
   <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -31,10 +31,10 @@ I'm Nam4ik, a 14 years old backend developer based in Norway :norway:
 
 ## My projects and organisations 💼
 <p align="center">
-<img src = "/README/GEESKTARTERC.jpg" width=80, height=80> </p>
+<img src = "/README/GEEKSTARTERC.jpg" width=80, height=80> </p>
 <a href="https://GitHub.com/Nam4ik/GeekStarter"><img src="https://img.shields.io/badge/Geekstarter-8A2BE2"></a> -  technical forum with parts of social media with AI helper. Also its a hub for all articles from Stack owerflow, Habr and other. In dev now.
 <p align="center">
-<img src = "/README/GEESKTARTERC.jpg" width=80, height=80> </p>
+<img src = "/README/ARCANEMOD.jpg" width=80, height=80> </p>
 <a href ="https://Github.com/Nam4ik/ARcaneMod"><img src="https://img.shields.io/badge/ArcaneMod-138f6a"></a> - ArcaneMod its The very same, long-awaited mod from my studio. Which will radically change the gaming experience from terraria! Many items, bosses, innovations and a scripting language capable of changing everything up to the mechanics of the game itself! And that's not all!
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nam4ik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
