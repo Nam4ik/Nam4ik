@@ -6,7 +6,7 @@ I'm Nam4ik, a 14 years old backend developer based in Russia 🇷🇺
   <img src="https://img.shields.io/badge/web-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
-  <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/GitHub-%-0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://discord.gg/F34Z9UsMmg"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/F34Z9UsMmg)](https://discord.gg/F34Z9UsMmg"></a>
   <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
   <a href="https://t.me/Nam4iks"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
