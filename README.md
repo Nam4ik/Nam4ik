@@ -18,10 +18,10 @@ I'm Nam4ik, a 14 years old backend developer based in Russia 🇷🇺
 
 ### Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,cpp,py,md,angular,apple,cs)
+![](https://skillicons.dev/icons?i=html,css,js,cpp,cs,py,md,angular,swift)
 
 ### Frameworks
-![](https://skillicons.dev/icons?i=react,nextjs,electron,express,dotnet,aiscript,arduino)
+![](https://skillicons.dev/icons?i=react,nextjs,electron,express,dotnet,aiscript,arduino,apple)
 
 ### Services
 ![](https://skillicons.dev/icons?i=prisma,mongodb,docker,nginx,githubactions,unity)
