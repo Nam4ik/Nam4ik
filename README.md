@@ -1,5 +1,5 @@
-# :wave: Im Nam4ik
-I'm Nam4ik, a 14 years old backend developer based in Russia 🇷🇺
+# :wave: Im Namilskyy
+I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 <head>
   <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
