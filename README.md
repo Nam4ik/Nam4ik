@@ -48,4 +48,11 @@ Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=ArcaneMod)](https://github.com/Nam4ik/ArcaneMod)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=GeekStarter)](https://github.com/NAm4ik/GeekStarter)
 
+News
+------------------------------------------------------------------------------------------------
+07.09.2024
+**Due to many factors and a very busy study schedule, I am forced to leave the development of my projects for an indefinite period (Estimated to be about a month, until everything settles down)**
+_Although why am I writing this? No one will see it anyway, and even if they see it, they will absolutely not care_
+
+
  
