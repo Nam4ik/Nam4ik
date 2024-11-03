@@ -18,13 +18,13 @@ I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 
 ### Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,cs,py,md,angular,swift)
+![](https://skillicons.dev/icons?i=html,css,js,cs,py,md,angular,bash,c)
 
 ### Frameworks
 ![](https://skillicons.dev/icons?i=react,nextjs,electron,express,dotnet,aiscript,arduino,apple)
 
 ### Services
-![](https://skillicons.dev/icons?i=prisma,mongodb,docker,nginx,githubactions,unity)
+![](https://skillicons.dev/icons?i=prisma,mongodb,docker,githubactions,unity)
 
 ### Tools
 ![](https://skillicons.dev/icons?i=nodejs,vite,linux,git,bash,powershell,vim,sublime,visualstudio)
@@ -52,7 +52,8 @@ News
 ------------------------------------------------------------------------------------------------
 07.09.2024<br>
 **Due to many factors and a very busy study schedule, I am forced to leave the development of my projects for an indefinite period (Estimated to be about a month, until everything settles down)**
-_Although why am I writing this? No one will see it anyway, and even if they see it, they will absolutely not care_
+03.11.2924<br>
+**Learning C# right now**
 
 
  
