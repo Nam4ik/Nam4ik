@@ -27,7 +27,7 @@ I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 ![](https://skillicons.dev/icons?i=prisma,mongodb,docker,githubactions,unity)
 
 ### Tools
-![](https://skillicons.dev/icons?i=nodejs,vite,linux,git,bash,powershell,vim,sublime,visualstudio)
+![](https://skillicons.dev/icons?i=vite,linux,git,bash,powershell,vim,sublime,visualstudio, )
 
 ## My projects and organisations 💼
 <p align="center">
