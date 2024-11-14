@@ -21,13 +21,13 @@ I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 ![](https://skillicons.dev/icons?i=html,css,js,cs,py,md,angular,bash,c)
 
 ### Frameworks
-![](https://skillicons.dev/icons?i=react,express,dotnet,aiscript,arduino,apple)
+![](https://skillicons.dev/icons?i=react,express,dotnet,aiscript,arduino,apple,dotnet)
 
 ### Services
-![](https://skillicons.dev/icons?i=prisma,docker,githubactions,unity,dotnet,)
+![](https://skillicons.dev/icons?i=prisma,githubactions,unity,expo)
 
 ### Tools
-![](https://skillicons.dev/icons?i=vite,arch,git,bash,powershell,vim,sublime,visualstudio,k8s,ansible )
+![](https://skillicons.dev/icons?i=arch,git,bash,powershell,vim,sublime,visualstudio,k8s,ansible,docker)
 
 ## My projects and organisations 💼
 <p align="center">
