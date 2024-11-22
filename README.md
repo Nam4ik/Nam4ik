@@ -7,7 +7,7 @@ I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
   <a href="https://discord.gg/F34Z9UsMmg"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/F34Z9UsMmg)](https://discord.gg/F34Z9UsMmg"></a>
   <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
   <a href="https://t.me/Nam4iks"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/Ok-Tehnology-6743"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/u/Ok-Tehnology-6743"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 </head>
 
