@@ -44,7 +44,7 @@ Social media 😶‍🌫️
 [![Telegram](https://img.shields.io/badge/Telegram-@ArcaneDevStudio-blue?style=flat-square&logo=telegram)](https://t.me/ArcaneDevStudio) 
 [![TikTok](https://img.shields.io/badge/TikTok-@ArcaneDevStudio-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@ArcaneDevStudio)
 [![Patreon](https://img.shields.io/badge/Patreon-Nam4ik-orange?style=flat-square&logo=patreon)](https://www.patreon.com/Nam4ik) 
-[![X](https://img.shields.io/badge/X-FrcaneDevStud10-lightblue?style=flat-square&logo=x)](https://twitter.com/ArcaneDevStud10) 
+[![X](https://img.shields.io/badge/X-ArcaneDevStud10-lightblue?style=flat-square&logo=x)](https://twitter.com/ArcaneDevStud10) 
 [![Reddit](https://img.shields.io/badge/Reddit-u/Ok-Technology-6743-orange?style=flat-square&logo=reddit)](https://www.reddit.com/user/Ok-Technology-6743)
 
 
