@@ -2,9 +2,8 @@
 I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 <head>
   <p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+
   <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="https://discord.gg/F34Z9UsMmg"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/F34Z9UsMmg)](https://discord.gg/F34Z9UsMmg"></a>
   <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
   <a href="https://t.me/Nam4iks"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.reddit.com/user/u/Ok-Tehnology-6743"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></a>
@@ -16,13 +15,13 @@ I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
 ### Languages
 <p align="center">
   
-![](https://skillicons.dev/icons?i=html,cs,c,cpp,py,md,ts,bash,powershell)
+![](https://skillicons.dev/icons?i=html,cs,c,cpp,py,md,ts,bash,powershell,js)
 
 ### Frameworks
-![](https://skillicons.dev/icons?i=express,dotnet,tensorflow,arduino,apple,unity,unreal)
+![](https://skillicons.dev/icons?i=express,dotnet,tensorflow,arduino,apple,unity,unreal,opencv,electron,nodejs)
 
 ### Tools
-![](https://skillicons.dev/icons?i=arch,git,vim,sublime,visualstudio,k8s,ansible,docker)
+![](https://skillicons.dev/icons?i=arch,git,vim,sublime,visualstudio,k8s,ansible,docker,windows,)
 
 </p>
 
