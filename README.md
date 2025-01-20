@@ -68,8 +68,8 @@ Repos
 -----------------------------------------------------------------------------------------------
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=ArcaneMod)](https://github.com/Nam4ik/ArcaneMod)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=GeekStarter)](https://github.com/NAm4ik/GeekStarter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=EasyEngineLib)](https://github.com/Nam4ik/ArcaneMod)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=SkPhys)](https://github.com/NAm4ik/GeekStarter)
 
 
  
