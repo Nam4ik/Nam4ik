@@ -1,14 +1,10 @@
 # :wave: Im Namilskyy
-I'm Namilskyy, a 14 years old backend developer based in Russia 🇷🇺
-<head>
-  <p align="center">
+**I'm Namilskyy, backend developer based in Russia** 🇷🇺
+**Microel-ectronics and computer sciense student**
 
-  <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
-  <a href="https://t.me/Nam4iks"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/u/Ok-Tehnology-6743"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></a>
-</p>
-</head>
+
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Namilskyy,+Backend,+Writer"/></p>
+
 
 ## My skills :hammer:
 
@@ -53,7 +49,13 @@ Info 🟢
 <p align="center">
 <img src="https://widgetbite.com/stats/Nam4ik" alt="watching_count" /><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nam4ik&theme=tokyonight" alt="mystreak"/>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam4ik&hide=css,html)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nam4ik) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nam4ik)
 </p>
+
+
+
 
 News 
 ------------------------------------------------------------------------------------------------
@@ -70,6 +72,8 @@ Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=EasyEngineLib)](https://github.com/Nam4ik/ArcaneMod)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=SkPhys)](https://github.com/NAm4ik/GeekStarter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=EasyEngineLib)](https://github.com/NAm4ik/EasyEngineLib)
+
 
 
  
