@@ -50,7 +50,7 @@ Info 🟢
 <img src="https://widgetbite.com/stats/Nam4ik" alt="watching_count" /><br>
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam4ik&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam4ik&hide=css,html) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nam4ik) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nam4ik)
 </p>
 
