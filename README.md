@@ -48,7 +48,7 @@ Info 🟢
 ----------------------------------------------------------------------------------------------
 <p align="center">
 <img src="https://widgetbite.com/stats/Nam4ik" alt="watching_count" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nam4ik&theme=tokyonight" alt="mystreak"/>
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam4ik&hide=css,html)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nam4ik) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nam4ik)
