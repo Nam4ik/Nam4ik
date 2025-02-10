@@ -1,6 +1,6 @@
 # :wave: Im Namilskyy
 **I'm Namilskyy, backend developer based in Russia** 🇷🇺
-**Microel-ectronics and computer sciense student**
+**Micro-elctronics and computer sciense university student**
 
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Namilskyy,+Backend,+Writer"/></p>
