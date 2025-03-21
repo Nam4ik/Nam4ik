@@ -1,5 +1,5 @@
 # :wave: Im Namilskyy
-Hi there! I`m system low-level and microcontrollers programmer,<br> 
+Hi there! **I`m system low-level and microcontrollers programmer**,<br> 
 but have and other skills. Now i an just shitcoding and work for portfolio to
 work.
 
