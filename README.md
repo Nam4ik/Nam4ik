@@ -1,6 +1,6 @@
 # :wave: Im Namilskyy
-**I'm Namilskyy, backend developer based in Russia** 🇷🇺 <br>
-**Micro-elctronics and computer sciense university student**
+Hi there! I`m system low-level and microcontrollers programmer, but have and other skills.
+
 ### Languages
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=c,cpp,py,md,bash,rust">
