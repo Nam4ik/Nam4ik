@@ -5,7 +5,7 @@ work.
 
 ### Languages
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=c,cpp,py,md,bash,rust">
+  <img src = "https://skillicons.dev/icons?i=md,c,cpp,rust,py,bas">
 </p>
 
 <div align="center">
