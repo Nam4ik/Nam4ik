@@ -1,7 +1,8 @@
 <h1 align="center"> Im Namilskyy 📺️</h1>
 <p align="center">
 Hi there! I`m system low-level and microcontrollers programmer,<br> 
-but have and other skills. Just shitcoding and fun while i can!
+but have and other skills. Just shitcoding and have fun while i can! <br>
+If u have an interesting idea and need a help dont wait and write me!
 </p>
 
 <br>
