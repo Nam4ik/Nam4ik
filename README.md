@@ -2,7 +2,8 @@
 <p align="center">
 Hi there! I`m system low-level and microcontrollers programmer,<br> 
 but have and other skills. Just shitcoding and have fun while i can! <br>
-If u have an interesting idea and need a help dont wait and write me!
+If u have an interesting idea and need a help dont wait and write me! <br>
+Btw i have more activity at codeberg now 
 </p>
 <br>
 
@@ -35,6 +36,10 @@ If u have an interesting idea and need a help dont wait and write me!
 
 <a href="https://twitter.com/ArcaneDevStud10" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-ArcaneDevStud10-lightblue?style=flat-square&logo=x" alt="X (Twitter)">
+</a>
+
+<a href="https://codeberg.org/namilsk/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Codeberg-Namilsk-lightblue?style=flat-square&logo=codeberg" alt="Codeberg">
 </a>
 </div>
 
