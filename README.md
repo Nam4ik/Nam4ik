@@ -9,7 +9,7 @@ Btw i have more activity at codeberg now
 
 <h2 align = "center"> My fav languages 🏗️</h2>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=md,c,cpp,rust,py,bash">
+  <img src = "https://skillicons.dev/icons?i=md,c,haskell,r,rust,py,bash">
 </p>
 <br>
 <div align="center">
