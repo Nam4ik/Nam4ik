@@ -1,15 +1,14 @@
 <h1 align="center"> Im Namilskyy 📺️</h1>
 <p align="center">
 Hi there! I`m system low-level and microcontrollers programmer,<br> 
-but have and other skills. Just shitcoding and have fun while i can! <br>
+but have and other skills. Just shitcoding and have fun while i can. <br>
 If u have an interesting idea and need a help dont wait and write me! <br>
-Btw i have more activity at codeberg now 
 </p>
 <br>
 
-<h2 align = "center"> My fav languages 🏗️</h2>
+<h2 align = "center"> My fav languages and tools 🏗️</h2>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=md,c,haskell,r,rust,py,bash">
+  <img src = "https://skillicons.dev/icons?i=c,haskell,rust,py,bash,bsd,plan9">
 </p>
 <br>
 <div align="center">
