@@ -13,7 +13,7 @@ If u have an interesting idea and need a help dont wait and write me! <br>
 <br>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nam4ik&hide=makefile,renderscript,cmake,html,javascript,css,dockerfile,typescript&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages stat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nam4ik&hide=makefile,cmake,html,javascript,css,dockerfile&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages stat">
     
 </div>
 
