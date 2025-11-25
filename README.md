@@ -29,10 +29,6 @@ If u have an interesting idea and need a help dont wait and write me! <br>
     <img src="https://img.shields.io/badge/TikTok-@ArcaneDevStudio-black?style=flat-square&logo=tiktok" alt="TikTok">
 </a>
 
-<a href="https://www.patreon.com/Nam4ik" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Patreon-Nam4ik-orange?style=flat-square&logo=patreon" alt="Patreon">
-</a>
-
 <a href="https://twitter.com/ArcaneDevStud10" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-ArcaneDevStud10-lightblue?style=flat-square&logo=x" alt="X (Twitter)">
 </a>
