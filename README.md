@@ -3,8 +3,6 @@
 Hi there! I`m system low-level and microcontrollers programmer,<br> 
 but have and other skills. Just shitcoding and have fun while i can. <br>
 If u have an interesting idea and need a help dont wait and write me! <br>
-
-**[My main project (On codeberg)](codeberg.org/NamelessTeam)**
 </p>
 <br>
 
@@ -42,6 +40,8 @@ If u have an interesting idea and need a help dont wait and write me! <br>
 
 <br> 
 <br>
+
+**[My main project (On codeberg)](codeberg.org/NamelessTeam)**
 
 <div align=left> 
   <img src="./resources/poweredby.png">
